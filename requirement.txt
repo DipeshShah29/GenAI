@@ -1,5 +1,6 @@
 streamlit
-langchain-core
-langchain-openai
+langchain_core
+langchain_openai
 pydantic
 reportlab
+tempfile
