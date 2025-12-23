@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.38
+pydantic>=2.6
 langchain_core
 langchain_openai
-pydantic
 reportlab
 tempfile
+
