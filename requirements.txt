@@ -1,0 +1,5 @@
+streamlit
+langchain-core
+langchain-openai
+pydantic==1.10.13
+reportlab
